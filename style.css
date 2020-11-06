@@ -1,7 +1,13 @@
 body{
   background-color: #000;
 }
-
+h3
+{
+color:#fff;
+position:absolute;
+width:100%;
+margin:20px auto;
+}
 #container{
   width: 1000px;
   height: 550px;
